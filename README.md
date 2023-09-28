@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div>
+  <a href="https://www.codewars.com/users/Abhix03x"><img src='https://www.codewars.com/users/Abhix03x/badges/large'></a>
+</div>
