@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Abhix03x/abhix03x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,10 +18,8 @@ Here are some ideas to get you started:
 <div>
   <a href="https://www.codewars.com/users/Abhix03x"><img src='https://www.codewars.com/users/Abhix03x/badges/large'></a>
 </div>
-<h1 align="center">Hi 👋, I'm Abhinav Anil</h1>
+<h1 align="center">Hi 👋, I'm Abhinand M</h1>
 <h3 align="center">Pursuing btech degree in <strong>computer science engineering</strong></h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=06abhinav123&label=Profile%20views&color=0e75b6&style=flat" alt="06abhinav123" /> </p>
 
 # <p align="center" > 🌱 I’m interested in Fullstack Web Development</p>
 
