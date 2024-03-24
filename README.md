@@ -19,9 +19,8 @@ Here are some ideas to get you started:
   <a href="https://www.codewars.com/users/Abhix03x"><img src='https://www.codewars.com/users/Abhix03x/badges/large'></a>
 </div>
 <h1 align="center">Hi 👋, I'm Abhinand M</h1>
-<h3 align="center">Pursuing btech degree in <strong>computer science engineering</strong></h3>
 
-# <p align="center" > 🌱 I’m interested in Fullstack Web Development</p>
+
 
 # Languages and Libraries Known
 
@@ -40,6 +39,5 @@ I am proficient in the following programming languages:
 <p>
 <a href="https://www.instagram.com/_a.b.h.i_x" target="blank" rel="norefferer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_a.b.h.i_x" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/abhinand-m-" target="blank" rel="norefferer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinav u" height="30" width="40" /></a></p>
-I am a third-year BTech student passionate about Full Stack development. Currently, I am learning and exploring various technologies to enhance my skills in this field.
 
-Improvements and Suggestions:
+
